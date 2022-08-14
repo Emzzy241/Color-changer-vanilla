@@ -13,10 +13,23 @@ body.style.backgroundColor = "pink";
 
 button.addEventListener("click", functionChanger);
 
+/* the function for the first color changer, changing background-Color to red
+
 function functionChanger(){
     const redCol = "red";
-    // const colorRed = parseInt(Math.random() * color.length);
-    // body.style.backgroundColor = color[redCol];
+    
     body.style.backgroundColor = redCol;
 
 }
+
+*/
+
+/*
+function functionChanger() {
+    const colorRed = parseInt(Math.random() * color.length);
+    body.style.backgroundColor = color[colorRed];
+}
+
+*/
+
+
