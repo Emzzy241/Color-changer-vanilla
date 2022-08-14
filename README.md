@@ -1,4 +1,4 @@
-# COLOR CHANGER APPLICATION with vanilla
+# COLOR CHANGER APPLICATION with vanilla JavaScript
 
 #### made by Mojiboye Emmanuel
 
