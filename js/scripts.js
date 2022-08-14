@@ -38,8 +38,10 @@ const arrayColors = [redBg, greyBg, blueBg, greenBg, whiteBg, darkBg]
 
 function functionRed(){
     const redBg = "red";
+    const colorWhenScreenIsRed = "white"
 
     body.style.backgroundColor = redBg;
+    body.style.color = colorWhenScreenIsRed;
 }
 
 function functionGrey(){
