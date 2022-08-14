@@ -6,7 +6,7 @@
 const button = document.querySelector("button");
 const body = document.querySelector("body");
 
-const color = ["red", "pink", "violet", "blue", "green", "brown", "purple"];
+const color = ["red", "pink", "violet", "blue", "green", "brown", "#fff", "purple"];
 
 body.style.backgroundColor = "pink";
 
@@ -14,6 +14,9 @@ body.style.backgroundColor = "pink";
 button.addEventListener("click", functionChanger);
 
 function functionChanger(){
-    const colorRed = parseInt(Math.random() * color.length);
-    body.style.backgroundColor = color[colorRed];
+    const redCol = "red";
+    // const colorRed = parseInt(Math.random() * color.length);
+    // body.style.backgroundColor = color[redCol];
+    body.style.backgroundColor = redCol;
+
 }
