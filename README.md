@@ -14,7 +14,7 @@
 
 
 ### Description
-_This is a website that shows experimenting with JavaScript is actually fun, in this project you are presented with different buttons and when you click on a specific button the color of the webPage changes to the color of the button and the text colors also get changed_
+_This is a website that shows experimenting with JavaScript is actually fun, in this project you are presented with different buttons and when you click on a specific button the color of the webPage changes to the color of the button and the text colors also get changed. I have made one wit jQuery before, I decided to make another one with pure vanilla javasScript._
 
 ## Setup/Installation
 * _Open the directory._
@@ -26,7 +26,7 @@ _Note: the website is designed to run on a web browser just be sure you have one
 _As at the launching of this Project there are zero bugs in it. But if you do find a bug in it, be sure to notify me via my various social media handles below_
 
 ## WEBSITE LINK
-https://github.com/Emzzy241/Mad-Libs
+https://emzzy241.github.io/Color-changer-vanilla/
 
 ## License 
 Licensed under the GNU General Public License 
